@@ -1,5 +1,6 @@
-# Two Sum 
-### Question
+# Tao's Blind 75 Journey
+## Array
+### Two Sum Question
 
 > Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
