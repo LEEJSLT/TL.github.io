@@ -2,3 +2,7 @@
 
 ## About me
 [About me](about.md)
+
+# Array
+## Two Sum
+[Two Sum](twoSum.md)
