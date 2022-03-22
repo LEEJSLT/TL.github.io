@@ -23,9 +23,9 @@ class Solution {
 }
 ```
 ### Comment
-This is the brute force method to find the solution. The brute force method comes with two FOR loop. By the comparison between the sum of two elements from the array and the target, we can get the location of the elements.
+This is the brute force method to find the solution. The brute force method comes with two FOR loop. By the comparison between the sum of two elements from the array and the target, we can get the location of the elements.  
 
-For Java, the nums.length counts from 1.
+For Java, the nums.length counts from 1.  
 
 ```java
 int[] a = {1,2,3,4};
