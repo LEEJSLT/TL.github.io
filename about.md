@@ -6,4 +6,4 @@ Hi, here is Tao Li and I am currently working as Naval Architect in one shiping 
 
 Beside of my daily working, I am student in the Master of Computer and Information Technology (MCIT) program in University of Pennsylvania. 
 
-[MCIT Online] (https://online.seas.upenn.edu/degrees/mcit-online/)
+[MCIT Online](https://online.seas.upenn.edu/degrees/mcit-online/)

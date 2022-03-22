@@ -16,18 +16,18 @@
 3. 怎么做
 
 ## 链接技术
-[YouTube] (https://www.youtube.com/watch?v=EigxHkpqJdA)
+[YouTube](https://www.youtube.com/watch?v=EigxHkpqJdA)
 
 ## 带有title
-[YouTube] (https://www.youtube.com/watch?v=EigxHkpqJdA "此处有惊喜")
+[YouTube](https://www.youtube.com/watch?v=EigxHkpqJdA "此处有惊喜")
 
 
 ## 图片
-![] (https://cdn.shopify.com/s/files/1/1953/9035/products/R75-RTE_2048x2048_435aeb9b-cfc3-4cc0-a0c9-f53f19b4ed31_2048x2048.png?v=1560531290)
+![](https://cdn.shopify.com/s/files/1/1953/9035/products/R75-RTE_2048x2048_435aeb9b-cfc3-4cc0-a0c9-f53f19b4ed31_2048x2048.png?v=1560531290)
 
 ## 图片带有title
 
-![alt] (https://cdn.shopify.com/s/files/1/1953/9035/products/R75-RTE_2048x2048_435aeb9b-cfc3-4cc0-a0c9-f53f19b4ed31_2048x2048.png?v=1560531290 "title")
+![alt](https://cdn.shopify.com/s/files/1/1953/9035/products/R75-RTE_2048x2048_435aeb9b-cfc3-4cc0-a0c9-f53f19b4ed31_2048x2048.png?v=1560531290 "title")
 
 ![alt][img01]
 [img01]:https://cdn.shopify.com/s/files/1/1953/9035/products/R75-RTE_2048x2048_435aeb9b-cfc3-4cc0-a0c9-f53f19b4ed31_2048x2048.png?v=1560531290 "can you markdown"
