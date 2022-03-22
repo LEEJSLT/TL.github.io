@@ -55,12 +55,11 @@
 ### Hello
 
 > A 
-
-> B
->
+> B 
 > C 
 
 **BOLD**
+
 __BOLD__
 
 *Italic*
