@@ -39,7 +39,7 @@ a[0] = 1;
 ```
 ##### Data Structure Note
 Time Complexity Review:  
-[Big O Cheat Sheet]{https://www.bigocheatsheet.com/}
+[Big_O_CheatSheet]{https://www.bigocheatsheet.com/}  
 ![]{http://www.redbubble.com/people/immortalloom/works/22929408-official-big-o-cheat-sheet-poster?p=poster&finish=semi_gloss&size=large}
 
 ### Solution 2 - Java
