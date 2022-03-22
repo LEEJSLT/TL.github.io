@@ -1,4 +1,4 @@
-# Tao's Blind 75 Journey
+<!-- # Tao's Blind 75 Journey -->
 ## Array - Two Sum - LeetCode #1
 
 > Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  
@@ -7,7 +7,7 @@
 
 [LeetCode: Two Sum](https://leetcode.com/problems/two-sum/)
 
-### Solution - Brute Force Java:
+### Solution 1 - Java - Brute Force
 
 ```java
 class Solution {
@@ -22,7 +22,7 @@ class Solution {
     }
 }
 ```
-### Comment
+#### Solution 1 - Comment
 This is the brute force method to find the solution. The brute force method comes with two FOR loop. By the comparison between the sum of two elements from the array and the target, we can get the location of the elements.  
 
 For Java, the nums.length counts from 1.  
