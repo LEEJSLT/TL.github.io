@@ -40,14 +40,6 @@ a[0] = 1;
 ##### Data Structure Note
 Time Complexity Review:  
 [Big O Cheat Sheet]{https://www.bigocheatsheet.com/}
-|                  |Average                                 |Worst                                  |
-|Data Structure    |Access |Search  |Insertion  |Deletion   |Access |Search  |Insertion  |Deletion  |
-|------------------|:-----:|:------:|:---------:|:---------:|:-----:|:-------:|:--------:|:--------:|
-|Array             |19     |100    |
-|Stack             |20     |200    |
-|Queue             |20     |200    |
-|Singly Linked List|
-|Hash Table        |
-|Binary Search Tree|
+![]{http://www.redbubble.com/people/immortalloom/works/22929408-official-big-o-cheat-sheet-poster?p=poster&finish=semi_gloss&size=large}
 
 ### Solution 2 - Java
