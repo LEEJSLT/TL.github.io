@@ -3,7 +3,7 @@
 ## About me
 [About me](about.md)
 
-## Two Sum
+## Array
 [Two Sum](twoSum.md)
 [Best Time to Buy and Sell Stock](bestTimeToBuyandSellStock.md)
 [Contains Duplicate](containsDuplicate.md)
