@@ -33,11 +33,11 @@ class Solution {
         return new int[0];
     }
 
-    public static void main(String[] args) {
-    // solution sl = new solution();
-    int[] a = new int[]{1,2,3,4};
-    System.out.println(a.length);
-    System.out.println(a[0]);
-    }
+    // public static void main(String[] args) {
+    // // solution sl = new solution();
+    // int[] a = new int[]{1,2,3,4};
+    // System.out.println(a.length);
+    // System.out.println(a[0]);
+    // }
 
 }

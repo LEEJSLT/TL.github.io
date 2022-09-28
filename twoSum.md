@@ -1,5 +1,5 @@
 # Tao's Blind 75 Journey
-## Array - Two Sum - LeetCode #1
+## Array - Two Sum - LeetCode #1 - EASY
 
 > Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  
 > You may assume that each input would have exactly one solution, and you may not use the same element twice.  
