@@ -65,3 +65,10 @@ class Solution {
     }
 }
 ```
+
+#### Comment
+
+Time Complexity O(n)
+Space Complexity O(n)
+
+This is the Hashtable method to solve the question. Key is the value and element is the ith value. By using the O(1) complexity on Hash Table finding the Key value, the overall time complexity is O(n)
