@@ -42,3 +42,26 @@ Time Complexity Review:
 [Big O CheatSheet](https://www.bigocheatsheet.com/)
 
 ### Solution 2 - Java
+
+```java
+import java.util.*;
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        
+        // generate the hash table
+        Hashtable<Integer, Integer> hash = new Hashtable<>();
+        for (int i = 0; i < nums.length; i++){
+            int currentKey = nums[i];
+            int targetKey = target - currentKey;
+            if (hash.containsKey(targetKey)){
+                return new int[]{hash.get(targetKey), i};
+            }
+            else{
+                hash.put(currentKey, i);
+            }
+        }
+        return new int[0];
+    }
+}
+```
