@@ -5,7 +5,10 @@
 > You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 > Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
+[LeetCode: Best Time To Buy And Sell Stock](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)
+
 ### Solution 1 - Java - Brute Force
+
 ```java
     public static int maxProfit(int[] prices) {
         int profit = 0;
