@@ -9,6 +9,13 @@
             "name": "Launch SolutionProductExceptSelf",
             "request": "launch",
             "mainClass": "SolutionProductExceptSelf",
+            "projectName": "leejslt.github.io_216ee3ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolutionProductExceptSelf",
+            "request": "launch",
+            "mainClass": "SolutionProductExceptSelf",
             "projectName": "leejslt.github.io_c7714292"
         },
         {

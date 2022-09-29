@@ -1,16 +1,27 @@
 class SolutionProductExceptSelf {
     public static int[] productExceptSelf(int[] nums) {
+        int le = 1;
+        int ri = 1;
+        int[] leList = new int[nums.length];
+        int[] riList = new int[nums.length];
+        int[] target = new int[nums.length];
 
-        // cannot use division operation
-        int length = nums.length;
-        int[] result = new int[length];
-        int ri = 1; // right product
-        int le = 1; // left product
+        for (int i = 0; i < nums.length; i++){
+            leList[i] = le;
+            le = le * nums[i];
+        }
 
+        for (int j = nums.length - 1; j >= 0; j--){
+            riList[j] = ri;
+            ri = ri * nums[j];
+        }
+
+        for (int k = 0; k < nums.length; k++){
+
+            target[k] = leList[k] * riList[k];
+        }
         
-
-        return result;
-
+        return target;
     }
 
     public static void main(String[] args) {
