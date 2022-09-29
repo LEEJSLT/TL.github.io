@@ -2,7 +2,7 @@
 // adding elements to Hashtable
 import java.util.*;
 
-class Solution {
+class SolutionTwoSum {
 
     // brute force method
     // public int[] twoSum(int[] nums, int target) {

@@ -5,7 +5,7 @@
 
 ## Array
 [Two Sum](twoSum.md)  
-[Best Time to Buy and Sell Stock](bestTimeToBuyandSellStock.md)  
+[Best Time to Buy and Sell Stock](bestTimeToBuyAndSellStock.md)  
 [Contains Duplicate](containsDuplicate.md)  
 [Product of Array Except Self](productOfArrayExceptSelf.md)  
 [Maximum Subarray](maximumSubarray.md)  

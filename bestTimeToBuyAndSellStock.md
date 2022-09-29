@@ -1,5 +1,5 @@
 # Tao's Blind 75 Journey
-## Array - Best Time To Buy And Sell Stock - LeetCode #121 - EASY
+## Array - Best Time To Buy And Sell Stock - LeetCode # 121 - EASY
 
 > You are given an array prices where prices[i] is the price of a given stock on the ith day.
 > You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.

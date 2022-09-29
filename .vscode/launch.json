@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SolutionContainsDuplicate",
+            "request": "launch",
+            "mainClass": "SolutionContainsDuplicate",
+            "projectName": "leejslt.github.io_216ee3ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution1",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "leejslt.github.io_216ee3ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "leejslt.github.io_216ee3ff"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

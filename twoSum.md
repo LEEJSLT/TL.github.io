@@ -41,7 +41,7 @@ a[0] = 1;
 Time Complexity Review:  
 [Big O CheatSheet](https://www.bigocheatsheet.com/)
 
-### Solution 2 - Java
+### Solution 2 - Java - Hash Table
 
 ```java
 import java.util.*;
