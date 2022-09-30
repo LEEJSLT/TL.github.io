@@ -6,21 +6,22 @@ class SolutionProductExceptSelf {
         int[] riList = new int[nums.length];
         int[] target = new int[nums.length];
 
-        for (int i = 0; i < nums.length; i++){
+        for (int i = 0; i < nums.length; i++) {
             leList[i] = le;
             le = le * nums[i];
         }
 
-        for (int j = nums.length - 1; j >= 0; j--){
+        for (int j = nums.length - 1; j >= 0; j--) {
             riList[j] = ri;
             ri = ri * nums[j];
         }
 
-        for (int k = 0; k < nums.length; k++){
+        for (int k = 0; k < nums.length; k++) {
 
             target[k] = leList[k] * riList[k];
+            
         }
-        
+
         return target;
     }
 
@@ -28,10 +29,9 @@ class SolutionProductExceptSelf {
         int[] a = new int[] { 1, 2, 3, 4 };
         int[] result = productExceptSelf(a);
 
-        for (int x : result){
+        for (int x : result) {
             System.out.println(x);
         }
-
 
     }
 }
