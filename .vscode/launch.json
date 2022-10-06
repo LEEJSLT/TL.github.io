@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SolutionMaximumSubarray",
+            "request": "launch",
+            "mainClass": "SolutionMaximumSubarray",
+            "projectName": "leejslt.github.io_c7714292"
+        },
+        {
+            "type": "java",
             "name": "Launch SolutionProductExceptSelf",
             "request": "launch",
             "mainClass": "SolutionProductExceptSelf",
