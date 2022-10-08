@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 class SolutionMaximumProductSubarray {
     public static int maxProduct(int[] nums) {
 
         int ans = Integer.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++){
+        int max = 1;
+        int min = 1;
+
+        for (int i = 0; i < nums.length; i++) {
+
             // // if (nums[i] == 0) {
             // //     continue;
             // // } else {
@@ -44,3 +49,20 @@ class SolutionMaximumProductSubarray {
 }
 
 // If all integer are positive:
+=======
+class SolutionMaxProduct {
+    public int maxProduct(int[] nums) {
+        int ans = nums[0];
+        int product = nums[0];
+
+        for (int i = 1; i < nums.length; i++){
+
+            
+        }
+
+
+        return ans;
+        
+    }
+}
+>>>>>>> 36a26ec7046b93b01b9f56f2ed9cbcc9925387f7
