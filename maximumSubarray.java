@@ -6,6 +6,7 @@ class SolutionMaximumSubarray {
         for (int i = 1; i < nums.length; i++){
 
             sum = Integer.max(sum+nums[i], nums[i]);
+            
             if (sum > ans){
                 ans = sum;
             }
