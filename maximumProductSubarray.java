@@ -12,10 +12,9 @@ class SolutionMaxProduct {
 
             for (int j = i + 1; j < nums.length; j++){
 
+                // ans = Math.max(ans, mult * nums[j]); // WRONG - Double the mult * nums[j]
                 ans = Math.max(ans, mult);
                 mult = mult * nums[j];
-
-
             }
 
             ans = Math.max(mult, ans);
@@ -54,7 +53,7 @@ class SolutionMaxProduct {
     // }
 
     public static void main(String[] args) {
-        int[] a = new int[] { -3, 0, 1, -2 };
+        int[] a = new int[] { 0, 2 };
         System.out.println(maxProduct(a));
     }
 }
