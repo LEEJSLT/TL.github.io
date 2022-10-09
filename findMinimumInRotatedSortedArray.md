@@ -16,3 +16,33 @@
 > -5000 <= nums[i] <= 5000
 > All the integers of nums are unique.
 > nums is sorted and rotated between 1 and n times.
+
+### Solution 1 - Java - Binary Division
+```java
+
+public static int findMin(int[] nums) {
+
+    int left = 0; // get the left initial value
+    int right = nums.length - 1; // get the right initial value
+
+    while (left != right) {
+        
+        int mid = (left + right) / 2; // get the middle index
+        if (nums[mid] > nums[right]) { // smallest in the right
+            left = mid + 1;
+        } else {
+            right = mid;
+        }
+    }
+
+    return nums[left];
+
+}
+
+```
+
+#### Comment
+Time Efficiency O(Logn)
+Space Efficiency O(n)
+
+Binary Division Method
